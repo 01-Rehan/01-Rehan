@@ -30,11 +30,3 @@ I am a college student passionate about bridging the gap between **Web Developme
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
 ---
-
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=01-Rehan&show_icons=true&theme=radical" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=01-Rehan&layout=compact&theme=radical" alt="Languages" />
-</p>
-
----
