@@ -1,6 +1,6 @@
 # Hi there, I'm Rehan Halai! 👋
 
-### 👨‍💻 Student | Tech & Cybersecurity
+### 👨‍💻 Student | Tech & Cybersecurity Enthusiast
 
 I am a college student passionate about bridging the gap between **Web Development**, **Artificial Intelligence**, and **Cybersecurity**. I love building full-stack applications and exploring how to secure them (or break them!).
 
