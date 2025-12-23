@@ -1,6 +1,6 @@
 # Hi there, I'm Rehan Halai! 👋
 
-### 👨‍💻 Student | Tech & Cybersecurity Enthusiast
+### Student | Tech & Cybersecurity Enthusiast
 
 I am a college student passionate about bridging the gap between **Web Development**, **Artificial Intelligence**, and **Cybersecurity**. I love building full-stack applications and exploring how to secure them (or break them!).
 
@@ -30,5 +30,9 @@ I am a college student passionate about bridging the gap between **Web Developme
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+
+<br><br>
+
+![](https://komarev.com/ghpvc/?username=01-Rehan&color=grey)
 
 ---
