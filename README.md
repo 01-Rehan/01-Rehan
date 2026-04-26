@@ -55,10 +55,6 @@ $ cat profile.json
 
 ---
 
----
-
----
-
 ### 🚀 Projects in Production
 
 * **[Recto](https://recto.social)** - A social ecosystem for readers. Built with **NestJS**, **PostgreSQL**, and **Turborepo**.
