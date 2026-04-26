@@ -1,41 +1,101 @@
-# Hi there, I'm Rehan Halai! 👋
+<div align="center">
 
-### Full-Stack Software Engineer | System Architecture
+```
+██████╗ ███████╗██╗  ██╗ █████╗ ███╗   ██╗
+██╔══██╗██╔════╝██║  ██║██╔══██╗████╗  ██║
+██████╔╝█████╗  ███████║███████║██╔██╗ ██║
+██╔══██╗██╔══╝  ██╔══██║██╔══██║██║╚██╗██║
+██║  ██║███████╗██║  ██║██║  ██║██║ ╚████║
+╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
+```
 
-I am a developer focused on engineering scalable backend systems and designing robust web architectures. I care about how systems are constructed, how data flows efficiently, and finding smarter ways to solve complex operational problems.
+### `System Architect` • `Full-Stack Engineer` • `Problem Solver`
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=00FF94&center=true&vCenter=true&width=600&lines=Building+scalable+systems+with+NestJS;Architecting+modern+web+with+Next.js;Optimizing+critical+rendering+paths;Fedora+User+%7C+System+Thinker;)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
-### 🚀 What I'm up to
-- 🏗️ **Architecting:** Currently deep-diving into system design, focusing on scalable backend patterns, monorepo structures, and optimizing the frontend pixel pipeline.
-- ⚙️ **Exploring Automation:** Building and testing AI-driven automation pipelines using tools like **n8n** to streamline workflows and eliminate manual bottlenecks.
-- 🔭 **Current Projects:**
-  - **Recto (Work in Progress):** Architecting the migration of a digital book reader platform from Express/MongoDB to a highly structured **NestJS, Drizzle ORM, and PostgreSQL** environment.
+### 🟢 Status: `Active_Development`
+
+```zsh
+$ cat profile.json
+{
+  "name": "Rehan Halai",
+  "role": "Full Stack Engineer Intern @ Sidequests",
+  "location": "Gujarat, IN",
+  "focus": ["Enterprise Architecture", "Automation", "Performance"],
+  "motto": "Systems over syntax."
+}
+```
+
+### 🛠 Tech Stack (The Arsenal)
+
+<table width="100%">
+  <tr>
+    <td width="25%" valign="top">
+      <sub><strong>frontend</strong></sub><br/><br/>
+      <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,gsap,tailwind&perline=3&theme=dark" />
+    </td>
+    <td width="25%" valign="top">
+      <sub><strong>backend & db</strong></sub><br/><br/>
+      <img src="https://skillicons.dev/icons?i=nestjs,nodejs,postgres,mongodb,prisma,supabase&perline=3&theme=dark" />
+    </td>
+    <td width="25%" valign="top">
+      <sub><strong>infra & tools</strong></sub><br/><br/>
+      <img src="https://skillicons.dev/icons?i=docker,vercel,azure,cloudflare,linux,git&perline=3&theme=dark" />
+    </td>
+    <td width="25%" valign="top">
+      <sub><strong>environment</strong></sub><br/><br/>
+      <img src="https://skillicons.dev/icons?i=fedora,vscode,github,bash,neovim,figma&perline=3&theme=dark" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🛠️ Tech Stack
+---
 
-**Frontend** <br>
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+---
 
-**Backend** <br>
-![Nest JS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+### 🚀 Projects in Production
 
-**Databases & ORMs** <br>
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-%234479A1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+* **[Recto](https://recto.social)** - A social ecosystem for readers. Built with **NestJS**, **PostgreSQL**, and **Turborepo**.
 
-**Architecture & Tools** <br>
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+---
+
+### 📈 System Metrics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=rehanhalai&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff94&icon_color=00ff94&text_color=ffffff&rank_icon=github" height="170px" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rehanhalai&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff94&text_color=ffffff" height="170px" />
+
+<br/>
+
+![GitHub Streak](https://streak-stats.demolab.com?user=rehanhalai&theme=dark&hide_border=true&background=0D1117&ring=00FF94&fire=00FF94&currStreakLabel=00FF94)
+
+</div>
+
+---
+
+### 📡 Reach Out
+
+<div align="center">
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/rehanhalai)
+&nbsp;&nbsp;
+[![X](https://skillicons.dev/icons?i=twitter)](https://x.com/rehanhalai_)
+&nbsp;&nbsp;
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/rehanhalai_)
+&nbsp;&nbsp;
+
+
+---
+
+`01010010 01000101 01001000 01000001 01010100`  
+*Building things that work while others are still picking a framework.*
+
+</div>
+```
