@@ -23,7 +23,7 @@
 $ cat profile.json
 {
   "name": "Rehan Halai",
-  "role": "Full Stack Engineer Intern @ Sidequests",
+  "role": "Full Stack Engineer",
   "location": "Gujarat, IN",
   "focus": ["Enterprise Architecture", "Automation", "Performance"],
   "motto": "Systems over syntax."
