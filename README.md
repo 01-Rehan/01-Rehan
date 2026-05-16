@@ -76,9 +76,10 @@ $ cat profile.json
 
 ---
 
-### 📡 Reach Out
-
 <div align="center">
+
+`01010010 01000101 01001000 01000001 01010100`  
+*Building things that work while others are still picking a framework.*
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/rehanhalai)
 &nbsp;&nbsp;
@@ -87,11 +88,4 @@ $ cat profile.json
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/rehanhalai_)
 &nbsp;&nbsp;
 
-
----
-
-`01010010 01000101 01001000 01000001 01010100`  
-*Building things that work while others are still picking a framework.*
-
 </div>
-```
