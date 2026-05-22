@@ -9,9 +9,9 @@
 ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
 ```
 
-### `System Architect` • `Full-Stack Engineer` • `Problem Solver`
+### `think` • `plan` • `code`
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=00FF94&center=true&vCenter=true&width=600&lines=Building+scalable+systems+with+NestJS;Architecting+modern+web+with+Next.js;Optimizing+critical+rendering+paths;Fedora+User+%7C+System+Thinker;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=00FF94&center=true&vCenter=true&width=600&lines=codeeeee...;)](https://git.io/typing-svg)
 
 </div>
 
